@@ -2,7 +2,7 @@
 👨‍💻 Cloud Engineer | Linux Enthusiast | Open-Source Contributor  
 
 ## 📌 About Me  
-- 🔭 I’m currently working on **MultiCloud Deployment Architecture**
+- 🔭 I’m currently working on **Multi-Cloud Deployment Architecture**
 - 🌱 Learning **AWS, Kubernetes, and Linux Administration**  
 - 💬 Ask me about **Cloud, DevOps, and Automation**  
 - 📫 Reach me at **[harshalj257@gmail.com]**  
