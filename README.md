@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🚀 Hi, I'm Harshal Jadhav!
+👨‍💻 Cloud Engineer | Linux Enthusiast | Open-Source Contributor  
 
-<!--
-**harshaljadhav-git/harshaljadhav-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me  
+- 🔭 I’m currently working on **MultiCloud Deployment Architecture**
+- 🌱 Learning **AWS, Kubernetes, and Linux Administration**  
+- 💬 Ask me about **Cloud, DevOps, and Automation**  
+- 📫 Reach me at **[harshalj257@gmail.com]**  
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/harshal-jadhav-75b8371b0/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-green)](https://portfolio-bucket-0010.s3.ap-south-1.amazonaws.com/Portfolio/index.html)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
