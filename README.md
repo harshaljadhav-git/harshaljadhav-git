@@ -17,3 +17,5 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
