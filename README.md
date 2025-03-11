@@ -16,6 +16,6 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshaljadhav-git&show_icons=true&theme=tokyonight)  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=harshaljadhav-git&theme=onedark)
