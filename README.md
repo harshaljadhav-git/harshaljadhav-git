@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Multi-Cloud Deployment Architecture**
 - 🌱 Learning **AWS, Kubernetes, and Linux Administration**  
 - 💬 Ask me about **Cloud, DevOps, and Automation**  
-- 📫 Reach me at **[harshalj257@gmail.com]**  
+- 📫 Reach me at **[harshalj257@gmail.com]**   
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/harshal-jadhav-75b8371b0/))  
