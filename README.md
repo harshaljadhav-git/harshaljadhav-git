@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Harshal Jadhav!
-👨‍💻 Cloud Engineer | Linux Enthusiast | Open-Source Contributor  
+👨‍💻 Cloud Engineer | DevOps Engineer | Open-Source Contributor  
 
 ## 📌 About Me  
 - 🔭 I’m currently working on **Multi-Cloud Deployment Architecture**
